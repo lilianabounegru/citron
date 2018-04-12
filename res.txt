@@ -1,0 +1,175 @@
+{
+    "results": [
+        {
+            "confidence": "0.9297",
+            "coreferences": [
+                {
+                    "end": 60,
+                    "text": "Zuckerberg",
+                    "start": 50
+                }
+            ],
+            "contents": [
+                {
+                    "end": 147,
+                    "text": "he will not step down. Despite the turmoil that continues to surround his company",
+                    "start": 66
+                }
+            ],
+            "sources": [
+                {
+                    "end": 2297,
+                    "text": "Mr Zuckerberg",
+                    "start": 2284
+                }
+            ],
+            "cue": {
+                "end": 65,
+                "text": "says",
+                "start": 61
+            }
+        },
+        {
+            "confidence": "0.6034",
+            "coreferences": [
+                {
+                    "end": 310,
+                    "text": "he",
+                    "start": 308
+                }
+            ],
+            "contents": [
+                {
+                    "end": 307,
+                    "text": "\"When you're building something like Facebook which is unprecedented in the world,\"",
+                    "start": 224
+                },
+                {
+                    "end": 612,
+                    "text": "\"there are things that you're going to mess up. \"What I think people should hold us accountable for is if we are learning from our mistakes.\" As well as being Facebook's chief executive, Mr Zuckerberg is chairman of the company's board. When asked if his position had been discussed",
+                    "start": 330
+                }
+            ],
+            "sources": [
+                {
+                    "end": 164,
+                    "text": "Mark Zuckerberg",
+                    "start": 149
+                }
+            ],
+            "cue": {
+                "end": 315,
+                "text": "said",
+                "start": 311
+            }
+        },
+        {
+            "confidence": "0.6708",
+            "coreferences": [],
+            "contents": [
+                {
+                    "end": 1598,
+                    "text": "\"They are in uncharted waters, and they have not comported themselves in a way that makes people feel good about Facebook and secure about their own data.\" A piece in technology magazine Wired called for Mr Zuckerberg to step down in order to let Facebook start a \"reputation-enhancing second chapter\". \"He doesn’t just lead an institution that touches almost every person on the planet,\"",
+                    "start": 1210
+                }
+            ],
+            "sources": [
+                {
+                    "end": 1617,
+                    "text": "Felix Salmon",
+                    "start": 1605
+                }
+            ],
+            "cue": {
+                "end": 1604,
+                "text": "wrote",
+                "start": 1599
+            }
+        },
+        {
+            "confidence": "0.5860",
+            "coreferences": [
+                {
+                    "end": 2227,
+                    "text": "he",
+                    "start": 2225
+                }
+            ],
+            "contents": [
+                {
+                    "end": 2224,
+                    "text": "There has been \"no meaningful impact that we’ve observed\"",
+                    "start": 2167
+                },
+                {
+                    "end": 2283,
+                    "text": "\"But look, it's not good!\"",
+                    "start": 2257
+                }
+            ],
+            "sources": [
+                {
+                    "end": 1617,
+                    "text": "Felix Salmon",
+                    "start": 1605
+                }
+            ],
+            "cue": {
+                "end": 2232,
+                "text": "said",
+                "start": 2228
+            }
+        },
+        {
+            "confidence": "0.9297",
+            "coreferences": [],
+            "contents": [
+                {
+                    "end": 2393,
+                    "text": "the \"deleteFacebook\" movement had had little impact. What we couldn't tell during the call",
+                    "start": 2303
+                }
+            ],
+            "sources": [
+                {
+                    "end": 2297,
+                    "text": "Mr Zuckerberg",
+                    "start": 2284
+                }
+            ],
+            "cue": {
+                "end": 2302,
+                "text": "said",
+                "start": 2298
+            }
+        },
+        {
+            "confidence": "0.9243",
+            "coreferences": [],
+            "contents": [
+                {
+                    "end": 3518,
+                    "text": "that not a single person at the company had been fired over the Cambridge Analytica fiasco. The buck stops with him",
+                    "start": 3403
+                }
+            ],
+            "sources": [
+                {
+                    "end": 3387,
+                    "text": "Mr Zuckerberg",
+                    "start": 3374
+                }
+            ],
+            "cue": {
+                "end": 3392,
+                "text": "told",
+                "start": 3388
+            }
+        }
+    ],
+    "source": {
+        "model:": "2018-01-12T22:33:49Z",
+        "application": "citron-tagger"
+    },
+    "text": "Zuckerberg: I'm still the man to run Facebook. Mr Zuckerberg says he will not step down. Despite the turmoil that continues to surround his company, Mark Zuckerberg has insisted he is still the best person to lead Facebook. \"When you're building something like Facebook which is unprecedented in the world,\" he said on Wednesday, \"there are things that you're going to mess up. \"What I think people should hold us accountable for is if we are learning from our mistakes.\" As well as being Facebook's chief executive, Mr Zuckerberg is chairman of the company's board. When asked if his position had been discussed, he replied: \"Not that I know of!\" The mere possibility that his leadership is in question is a scenario few would have predicted even a month ago. But recent reports around improper data gathering by third parties - as well as fake news and propaganda - have prompted some to question Mr Zuckerberg's ability to lead a company that some think has grown beyond his control. Scott Stringer, head of New York City's pension fund, said this week that Mr Zuckerberg should step aside. The fund owns approximately $1bn-worth of the social network. \"They have two billion users,\" Mr Stringer told CNBC. \"They are in uncharted waters, and they have not comported themselves in a way that makes people feel good about Facebook and secure about their own data.\" A piece in technology magazine Wired called for Mr Zuckerberg to step down in order to let Facebook start a \"reputation-enhancing second chapter\". \"He doesn’t just lead an institution that touches almost every person on the planet,\" wrote Felix Salmon. \"He also, thanks to financial engineering, has a majority of shareholder votes and controls the board, and is therefore answerable to no one. \"By design, he can’t be fired - he can only resign. Which is exactly what he should now do.\" Mr Zuckerberg's conference call went as well as the 33-year-old could have expected. Indeed, at one point he encouraged more time to take more questions. From his answers we learned a little more about the real toll of the negative publicity and the \"deleteFacebook\" movement. And so far the answer is: not much. There has been \"no meaningful impact that we’ve observed\" he said, before quickly adding: \"But look, it's not good!\" Mr Zuckerberg said the \"deleteFacebook\" movement had had little impact. What we couldn't tell during the call, of course, was to what extent Mr Zuckerberg was being quietly guided by his team in the room. But for a man often criticised as lacking empathy, it was a strong display lasting almost an hour. Investors certainly thought so - shares were up 3% once the call ended. Next week he will face a potentially tougher prospect, this time in front of the cameras, when he heads to Washington to testify before Congress. Indeed, this session with the press was perhaps the ideal dress rehearsal. The dynamic around Mr Zuckerberg's leadership could change dramatically in the coming months, as investigations - most notably from the Federal Trade Commission (FTC) - begin to probe deeper into how Facebook handled the public's data. If the company is seen to have fallen short of its responsibility, and is hit with a potentially enormous fine, it could increase pressure on Facebook to make serious personnel changes. So far, despite all of the apologies and admissions of poor judgement, Mr Zuckerberg told reporters that not a single person at the company had been fired over the Cambridge Analytica fiasco. The buck stops with him, he said - and indeed it might."
+}
